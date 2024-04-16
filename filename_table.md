@@ -1,4 +1,4 @@
-Notes:
+# Notes
 Some songs seem to be in the game multiple times or just don't have a name inside of the game. I named these "Untitled". For example, 118 seems to be a copy of "Spoils of the Hunt" (62).
 
 # Base Game
